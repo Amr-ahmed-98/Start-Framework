@@ -1,0 +1,3 @@
+.container :global(.active){
+    @apply text-white bg-torquaze-color p-2 rounded
+}
