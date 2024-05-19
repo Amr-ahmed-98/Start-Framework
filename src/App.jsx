@@ -18,6 +18,10 @@ function App() {
           element: <Home/>,
         },
         {
+          path: "/Start-Framework",
+          element: <Home/>,
+        },
+        {
           path: "/About",
           element: <About/>,
         },
